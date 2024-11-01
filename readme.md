@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pustakani React App](https://github.com/Lightninbolt986/Pustakani-app)
 
-- 🌱 I’m currently learning **NEAT in Python**
+- 🌱 I’m currently learning **Unity**
 
 - 📝 I sometimes write articles on [https://medium.com/@raisinghani.armaan1](https://medium.com/@raisinghani.armaan1)
 
