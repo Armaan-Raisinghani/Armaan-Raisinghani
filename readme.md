@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-I'm a second-year undergrad building at the intersection of **AI, systems engineering, and robotics**. Currently working on autonomous systems, optimization algorithms, and computer vision applications.
+I'm a third-year undergrad building at the intersection of **AI, systems engineering, and robotics**. Currently working on autonomous systems, optimization algorithms, and computer vision applications.
 
 - 🔭 **Currently building:** [ARSEM](https://github.com/SailBoat-Plaksha/) — an autonomous wind-powered sailboat for ocean monitoring
 - 📄 **Published research:** [FiE 2025 paper](https://doi.org/10.35542/osf.io/3dp7n_v1) on facial expressions & reading comprehension
 - 🎓 **President** @ [Geek Room Plaksha](https://www.linkedin.com/company/geekroom-plaksha/) — leading a tech community
-- 💼 **Recent:** Software Engineering Intern @ Pine Labs (built MCP server for LLM-powered BI queries)
+- 💼 **Recent:** Software Engineering Intern @ Compass Group India (built agent harnesses and MCP server for workflow automation)
 
 ---
 
@@ -76,8 +76,6 @@ I'm a second-year undergrad building at the intersection of **AI, systems engine
 
 - 🥇 **1st Place** — DotSlash Hackathon, Plaksha University
 - 📄 **Paper Accepted** — Frontiers in Education (FiE) Conference 2025, Nashville
-- 🎖️ **100% Score** — Mechatronics Robot Competition (only team with active sensing)
-
 ---
 
 ## 📫 Get in Touch
